@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\bin\Debug\net9.0\ShopApp.Models.exe
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\bin\Debug\net9.0\ShopApp.Models.deps.json
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\bin\Debug\net9.0\ShopApp.Models.runtimeconfig.json
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\bin\Debug\net9.0\ShopApp.Models.dll
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\bin\Debug\net9.0\ShopApp.Models.pdb
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ShopApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ShopApp.Models.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ShopApp.Models.AssemblyInfo.cs
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ShopApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ShopApp.Models.dll
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\refint\ShopApp.Models.dll
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ShopApp.Models.pdb
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ShopApp.Models.genruntimeconfig.cache
+C:\Users\Home\source\repos\ShopApp.Models\ShopApp.Models\obj\Debug\net9.0\ref\ShopApp.Models.dll
