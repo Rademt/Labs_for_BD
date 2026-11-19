@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Lb6\Lb6\bin\Debug\net9.0\Lb6.exe
+C:\Users\Home\source\repos\Lb6\Lb6\bin\Debug\net9.0\Lb6.deps.json
+C:\Users\Home\source\repos\Lb6\Lb6\bin\Debug\net9.0\Lb6.runtimeconfig.json
+C:\Users\Home\source\repos\Lb6\Lb6\bin\Debug\net9.0\Lb6.dll
+C:\Users\Home\source\repos\Lb6\Lb6\bin\Debug\net9.0\Lb6.pdb
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\Lb6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\Lb6.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\Lb6.AssemblyInfo.cs
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\Lb6.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\Lb6.dll
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\refint\Lb6.dll
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\Lb6.pdb
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\Lb6.genruntimeconfig.cache
+C:\Users\Home\source\repos\Lb6\Lb6\obj\Debug\net9.0\ref\Lb6.dll
