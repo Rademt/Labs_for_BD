@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\Lb4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\salesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\auditlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|c:\\users\\home\\source\\repos\\lb4\\lb4\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21979E26-85FC-4717-8730-C203A16E0D52}|Lb4\\Lb4.csproj|solutionrelative:lb4\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesManager.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\SalesManager.cs",
+              "RelativeDocumentMoniker": "Lb4\\SalesManager.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\SalesManager.cs",
+              "RelativeToolTip": "Lb4\\SalesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:44:25.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Lb4\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\ProductManager.cs",
+              "RelativeToolTip": "Lb4\\ProductManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:44:05.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Services.cs",
+              "RelativeDocumentMoniker": "Lb4\\Services.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Services.cs",
+              "RelativeToolTip": "Lb4\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:43:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\AuditLogger.cs",
+              "RelativeDocumentMoniker": "Lb4\\AuditLogger.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\AuditLogger.cs",
+              "RelativeToolTip": "Lb4\\AuditLogger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:42:35.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Order.cs",
+              "RelativeDocumentMoniker": "Lb4\\Order.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Order.cs",
+              "RelativeToolTip": "Lb4\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:41:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Lb4\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\OrderItem.cs",
+              "RelativeToolTip": "Lb4\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:41:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Customer.cs",
+              "RelativeDocumentMoniker": "Lb4\\Customer.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Customer.cs",
+              "RelativeToolTip": "Lb4\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:39:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Product.cs",
+              "RelativeDocumentMoniker": "Lb4\\Product.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Product.cs",
+              "RelativeToolTip": "Lb4\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:38:45.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Category.cs",
+              "RelativeDocumentMoniker": "Lb4\\Category.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Category.cs",
+              "RelativeToolTip": "Lb4\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:38:16.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Program.cs",
+              "RelativeDocumentMoniker": "Lb4\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\Lb4\\Lb4\\Program.cs",
+              "RelativeToolTip": "Lb4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T21:37:16.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
