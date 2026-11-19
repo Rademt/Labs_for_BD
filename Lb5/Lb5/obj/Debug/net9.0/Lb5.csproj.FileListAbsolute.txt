@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Lb5\Lb5\bin\Debug\net9.0\Lb5.exe
+C:\Users\Home\source\repos\Lb5\Lb5\bin\Debug\net9.0\Lb5.deps.json
+C:\Users\Home\source\repos\Lb5\Lb5\bin\Debug\net9.0\Lb5.runtimeconfig.json
+C:\Users\Home\source\repos\Lb5\Lb5\bin\Debug\net9.0\Lb5.dll
+C:\Users\Home\source\repos\Lb5\Lb5\bin\Debug\net9.0\Lb5.pdb
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\Lb5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\Lb5.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\Lb5.AssemblyInfo.cs
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\Lb5.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\Lb5.dll
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\refint\Lb5.dll
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\Lb5.pdb
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\Lb5.genruntimeconfig.cache
+C:\Users\Home\source\repos\Lb5\Lb5\obj\Debug\net9.0\ref\Lb5.dll
